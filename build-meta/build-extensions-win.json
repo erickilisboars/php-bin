@@ -27,5 +27,6 @@
     "tokenizer",
     "xmlwriter",
     "xmlreader",
-    "zip"
+    "zip",
+    "swow"
 ]
